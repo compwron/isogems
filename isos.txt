@@ -1,0 +1,396 @@
+ISO 1:2002 Geometrical Product Specifications (GPS) – Standard reference temperature for geometrical product specification and verification
+ISO 2:1973 Textiles – Designation of the direction of twist in yarns and related products
+ISO 3:1973 Preferred numbers – Series of preferred numbers
+ISO 4:1997 Information and documentation – Rules for the abbreviation of title words and titles of publications
+ISO 5 Photography and graphic technology – Density measurements
+ISO 5-1:2009 Geometry and functional notation
+ISO 5-2:2009 Geometric conditions for transmittance density
+ISO 5-3:2009 Spectral conditions
+ISO 5-4:2009 Geometric conditions for reflection density
+ISO 6:1993 Photography – Black-and-white pictorial still camera negative film/process systems – Determination of ISO speed
+ISO 7 Pipe threads where pressure-tight joints are made on the threads
+ISO 7-1:1994 Dimensions, tolerances and designation
+ISO 7-2:2000 Verification by means of limit gauges
+ISO 8:1977 Documentation – Presentation of periodicals
+ISO 9:1995 Information and documentation – Transliteration of Cyrillic characters into Latin characters – Slavic and non-Slavic languages
+ISO 11:1987 Aircraft – Ground pressure testing connections for pressure cabins
+ISO 12:1987 Aerospace – Pipelines – Identification
+ISO 14:1982 Straight-sided splines for cylindrical shafts with internal centering – Dimensions, tolerances and verification
+ISO 15:2011 Radial bearings -- Boundary dimensions, general plan
+ISO 16:1975 Acoustics – Standard tuning frequency (Standard musical pitch)
+ISO 17:1973 Guide to the use of preferred numbers and of series of preferred numbers
+ISO 18:1981 Documentation – Contents list of periodicals
+ISO 21:1985 Shipbuilding – Inland navigation – Cable-lifters for stud-link anchor chains
+ISO 22:1991 Belt drives – Flat transmission belts and corresponding pulleys – Dimensions and tolerances
+ISO 23:1993 Cinematography -- Camera usage of 35 mm motion-picture film -- Specifications
+ISO 25:1994 Cinematography -- Camera usage of 16 mm motion-picture film -- Specifications
+ISO 26:1993 Cinematography -- Projector usage of 16 mm motion-picture films for direct front projection -- Specifications
+ISO 28:1976 Cinematography -- Camera usage of 8 mm Type R motion-picture film -- Specifications
+ISO 29:1980 Cinematography -- Projector usage of 8 mm Type R silent motion-picture film for direct front projection -- Specifications [Withdrawn without replacement]
+ISO 31 Quantities and units [withdrawn: replaced with ISO/IEC 80000]
+ISO 32:1977 Gas cylinders for medical use -- Marking for identification of content
+ISO 34
+ISO 34-1:2010 Rubber, vulcanized or thermoplastic -- Determination of tear strength -- Part 1: Trouser, angle and crescent test pieces
+ISO 34-2:2011 Rubber, vulcanized or thermoplastic -- Determination of tear strength -- Part 2: Small (Delft) test pieces
+ISO 35:2004 Natural rubber latex concentrate -- Determination of mechanical stability
+ISO 36:2011 Rubber, vulcanized or thermoplastic -- Determination of adhesion to textile fabrics
+ISO 37:2011 Rubber, vulcanized or thermoplastic — Determination of tensile stress-strain properties
+ISO 41:1980 Shipbuilding -- Inland vessels -- Covers for deck openings for pumps [withdrawn without replacement]
+ISO 43:1976 Aircraft -- Jacking pads
+ISO 44:1975 Aerospace -- Lever-operated, two-position, ON/OFF switches -- Directions of operation
+ISO 45:1990 Aircraft -- Pressure refuelling connections
+ISO 46:1973 Aircraft -- Fuel nozzle grounding plugs and sockets
+ISO 48:2010 Rubber, vulcanized or thermoplastic -- Determination of hardness (hardness between 10 IRHD and 100 IRHD)
+ISO 49:1994 Malleable cast iron fittings threaded to ISO 7-1
+ISO 50:1977 Metal pipes -- Steel sockets screwed according to ISO 7 [Withdrawn without replacement]
+ISO 53:1998 Cylindrical gears for general and heavy engineering -- Standard basic rack tooth profile
+ISO 54:1996 Cylindrical gears for general engineering and for heavy engineering -- Modules
+ISO 55:1977 Seedlac -- Specification [Withdrawn without replacement]
+ISO 57:1975 Bleached lac -- Specification [Withdrawn without replacement]
+ISO 60:1977 Plastics -- Determination of apparent density of material that can be poured from a specified funnel
+ISO 61:1976 Plastics -- Determination of apparent density of moulding material that cannot be poured from a specified funnel
+ISO 62:2008 Plastics -- Determination of water absorption
+ISO 63:1975 Flat transmission belts -- Lengths [Withdrawn: Replaced with ISO 22]
+ISO 65:1981 Carbon steel tubes suitable for screwing in accordance with ISO 7-1
+ISO 67:1981 Muscovite mica blocks, thins and films -- Grading by size [Withdrawn without replacement]
+ISO 68 ISO general-purpose screw threads – Basic profile
+ISO 68-1:1998 Metric screw threads
+ISO 68-2:1998 Inch screw threads
+ISO 69:1998 Cinematography -- 16 mm motion-picture and magnetic film -- Cutting and perforating dimensions
+ISO 70:1981 Cinematography -- 35 mm negative photographic sound record on 35 mm motion-picture film -- Position and maximum width dimensions
+ISO 71:1977 Cinematography -- 16 mm negative photographic sound record on 16 mm, 35/16 mm and 35/32 mm motion-picture film -- Positions and dimensions
+ISO 74:1976 Cinematography -- Image area produced by camera aperture and maximum projectable image area on 8 mm Type R motion-picture film -- Positions and dimensions
+ISO 75 Plastics -- Determination of temperature of deflection under load
+ISO 75-1:2013 Plastics -- Determination of temperature of deflection under load -- Part 1: General test method
+ISO 75-2:2013 Plastics -- Determination of temperature of deflection under load -- Part 2: Plastics and ebonite
+ISO 75-3:2004 Plastics -- Determination of temperature of deflection under load -- Part 3: High-strength thermosetting laminates and long-fibre-reinforced plastics
+ISO 76:2006 Rolling bearings -- Static load ratings
+ISO 78 Chemistry — Layouts for standards
+ISO 78-2:1999 Chemistry -- Layouts for standards -- Part 2: Methods of chemical analysis
+ISO 78-3:1983 Chemistry -- Layouts for standards -- Part 3: Standard for molecular absorption spectrometry
+ISO 78-4:1983 Layouts for standards -- Part 4: Standard for atomic absorption spectrometric analysis
+ISO 82:1974 Steel -- Tensile testing [Withdrawn: replaced with ISO 6892-1]
+ISO 83:1976 Steel -- Charpy impact test (U-notch) [Withdrawn: replaced with ISO 148-1]
+ISO 86:1974 Steel -- Tensile testing of sheet and strip less than 3 mm and not less than 0,5 mm thick [Withdrawn: replaced with ISO 6892-1]
+ISO 89:1974 Steel -- Tensile testing of wire [Withdrawn: replaced with ISO 6892-1]
+ISO 90 Light gauge metal containers -- Definitions and determination of dimensions and capacities
+ISO 90-1:1997 Light gauge metal containers -- Definitions and determination of dimensions and capacities -- Part 1: Open-top cans
+ISO 90-2:1997 Light gauge metal containers -- Definitions and determination of dimensions and capacities -- Part 2: General use containers
+ISO 90-3:2000 Light gauge metal containers -- Definitions and determination of dimensions and capacities -- Part 3: Aerosol cans
+ISO 91 Petroleum measurement tables
+ISO 91-1:1992 Petroleum measurement tables -- Part 1: Tables based on reference temperatures of 15 degrees C and 60 degrees F
+ISO 91-2:1991 Petroleum measurement tables -- Part 2: Tables based on a reference temperature of 20 degrees C
+ISO 92:1976 Textile machinery and accessories -- Spinning machinery -- Definition of side (left or right)
+ISO 93 Textile machinery and accessories -- Cylindrical sliver cans
+ISO 93-1:2006 Textile machinery and accessories -- Cylindrical sliver cans -- Part 1: Main dimensions
+ISO 93-2:2006 Textile machinery and accessories -- Cylindrical sliver cans -- Part 2: Spring bottoms
+ISO 94:1982 Textile machinery and accessories -- Spindle gauges for ring-spinning and ring-doubling frames
+ISO 96 Textile machinery and accessories -- Rings and travellers for ring spinning and ring twisting frames
+ISO 96-1:2009 Textile machinery and accessories -- Rings and travellers for ring spinning and ring twisting frames -- Part 1: Flange rings T and SF and their travellers
+ISO 96-2:2009 Textile machinery and accessories -- Rings and travellers for ring spinning and ring twisting frames -- Part 2: HZ- and J-rings and their travellers
+ISO 97:1975 Textile machinery and accessories -- Rings for spinning, doubling and twisting for ear-shaped travellers
+ISO 98:2001 Textile machinery and accessories -- Spinning preparatory and spinning machinery -- Main dimensions of coverings for top rollers
+ISO 100 – ISO 199[edit]
+ISO 100:1984 Pulleys for flat transmission belts -- Crowns [Withdrawn: replaced with ISO 22]
+ISO 102:1990 Aircraft -- Gravity filling orifices
+ISO 104:2002 Rolling bearings -- Thrust bearings -- Boundary dimensions, general plan
+ISO 105 Textiles — Tests for colour fastness
+ISO 105-A01:2010 Part A01: General principles of testing
+ISO 105-A02:1993 Part A02: Grey scale for assessing change in colour
+ISO 105-A03:1993 Part A03: Grey scale for assessing staining
+ISO 105-A04:1989 Part A04: Method for the instrumental assessment of the degree of staining of adjacent fabrics
+ISO 105-A05:1996 Part A05: Instrumental assessment of change in colour for determination of grey scale rating
+ISO 105-A06:1995 Part A06: Instrumental determination of 1/1 standard depth of colour
+ISO 105-A08:2001 Part A08: Vocabulary used in colour measurement
+ISO 105-A11:2012 Part A11: Determination of colour fastness grades by digital imaging techniques
+ISO 105-B01:1994 Part B01: Colour fastness to light: Daylight
+ISO 105-B02:2013 Part B02: Colour fastness to artificial light: Xenon arc fading lamp test
+ISO 105-B03:1994 Part B03: Colour fastness to weathering: Outdoor exposure
+ISO 105-B04:1994 Part B04: Colour fastness to artificial weathering: Xenon arc fading lamp test
+ISO 105-B05:1993 Part B05: Detection and assessment of photochromism
+ISO 105-B06:1998 Part B06: Colour fastness and ageing to artificial light at high temperatures: Xenon arc fading lamp test
+ISO 105-B07:2009 Part B07: Colour fastness to light of textiles wetted with artificial perspiration
+ISO 105-B08:1995 Part B08: Quality control of blue wool reference materials 1 to 7
+ISO 105-B10:2011 Part B10: Artificial weathering -- Exposure to filtered xenon-arc radiation
+ISO 105-C06:2010 Part C06: Colour fastness to domestic and commercial laundering
+ISO 105-C07:1999 Part C07: Colour fastness to wet scrubbing of pigment printed textiles
+ISO 105-C08:2010 Part C08: Colour fastness to domestic and commercial laundering using a non-phosphate reference detergent incorporating a low-temperature bleach activator
+ISO 105-C09:2001 Part C09: Colour fastness to domestic and commercial laundering -- Oxidative bleach response using a non-phosphate reference detergent incorporating a low temperature bleach activator
+ISO 105-C10:2006 Part C10: Colour fastness to washing with soap or soap and soda
+ISO 105-C12:2004 Part C12: Colour fastness to industrial laundering
+ISO 105-D01:2010 Part D01: Colour fastness to drycleaning using perchloroethylene solvent
+ISO 105-D02:1993 Part D02: Colour fastness to rubbing: Organic solvents
+ISO 105-E01:2013 Part E01: Colour fastness to water
+ISO 105-E02:2013 Part E02: Colour fastness to sea water
+ISO 105-E03:2010 Part E03: Colour fastness to chlorinated water (swimming-pool water)
+ISO 105-E04:2013 Part E04: Colour fastness to perspiration
+ISO 105-E05:2010 Part E05: Colour fastness to spotting: Acid
+ISO 105-E06:2006 Part E06: Colour fastness to spotting: Alkali
+ISO 105-E07:2010 Part E07: Colour fastness to spotting: Water
+ISO 105-E08:1994 Part E08: Colour fastness to hot water
+ISO 105-E09:2010 Part E09: Colour fastness to potting
+ISO 105-E10:1994 Part E10: Colour fastness to decatizing
+ISO 105-E11:1994 Part E11: Colour fastness to steaming
+ISO 105-E12:2010 Part E12: Colour fastness to milling: Alkaline milling
+ISO 105-E13:1994 Part E13: Colour fastness to acid-felting: Severe
+ISO 105-E14:1994 Part E14: Colour fastness to acid-felting: Mild
+ISO 105-E16:2006 Part E16: Colour fastness to water spotting on upholstery fabrics
+ISO 105-F01:2001 Part F01: Specification for wool adjacent fabric
+ISO 105-F02:2009 Part F02: Specification for cotton and viscose adjacent fabrics
+ISO 105-F03:2001 Part F03: Specification for polyamide adjacent fabric
+ISO 105-F04:2001 Part F04: Specification for polyester adjacent fabric
+ISO 105-F05:2001 Part F05: Specification for acrylic adjacent fabric
+ISO 105-F06:2000 Part F06: Specification for silk adjacent fabric
+ISO 105-F07:2001 Part F07: Specification for secondary acetate adjacent fabric
+ISO 105-F09:2009 Part F09: Specification for cotton rubbing cloth
+ISO 105-F10:1989 Part F10: Specification for adjacent fabric: Multifibre
+ISO 105-G01:1993 Part G01: Colour fastness to nitrogen oxides
+ISO 105-G02:1993 Part G02: Colour fastness to burnt-gas fumes
+ISO 105-G03:1993 Part G03: Colour fastness to ozone in the atmosphere
+ISO 105-G04:1989 Part G04: Colour fastness to oxides of nitrogen in the atmosphere at high humidities
+ISO 105-J01:1997 Part J01: General principles for measurement of surface colour
+ISO 105-J02:1997 Part J02: Instrumental assessment of relative whiteness
+ISO 105-J03:2009 Part J03: Calculation of colour differences
+ISO 105-J05:2007 Part J05: Method for the instrumental assessment of the colour inconstancy of a specimen with change in illuminant (CMCCON02)
+ISO 105-N01:1993 Part N01: Colour fastness to bleaching: Hypochlorite
+ISO 105-N02:1993 Part N02: Colour fastness to bleaching: Peroxide
+ISO 105-N03:1993 Part N03: Colour fastness to bleaching: Sodium chlorite (mild)
+ISO 105-N04:1993 Part N04: Colour fastness to bleaching: Sodium chlorite (severe)
+ISO 105-N05:1993 Part N05: Colour fastness to stoving
+ISO 105-P01:1993 Part P01: Colour fastness to dry heat (excluding pressing)
+ISO 105-P02:2002 Part P02: Colour fastness to pleating: Steam pleating
+ISO 105-S01:1993 Part S01: Colour fastness to vulcanization: Hot air
+ISO 105-S02:1993 Part S02: Colour fastness to vulcanization: Sulfur monochloride
+ISO 105-S03:1993 Part S03: Colour fastness to vulcanization: Open steam
+ISO 105-X01:1993 Part X01: Colour fastness to carbonizing: Aluminium chloride
+ISO 105-X02:1993 Part X02: Colour fastness to carbonizing: Sulfuric acid
+ISO 105-X04:1994 Part X04: Colour fastness to mercerizing
+ISO 105-X05:1994 Part X05: Colour fastness to organic solvents
+ISO 105-X06:1994 Part X06: Colour fastness to soda boiling
+ISO 105-X07:1994 Part X07: Colour fastness to cross-dyeing: Wool
+ISO 105-X08:1994 Part X08: Colour fastness to degumming
+ISO 105-X09:1993 Part X09: Colour fastness to formaldehyde
+ISO 105-X10:1993 Part X10: Assessment of migration of textile colours into polyvinyl chloride coatings
+ISO 105-X11:1994 Part X11: Colour fastness to hot pressing
+ISO 105-X12:2001 Part X12: Colour fastness to rubbing
+ISO 105-X13:1994 Part X13: Colour fastness of wool dyes to processes using chemical means for creasing, pleating and setting
+ISO 105-X14:1994 Part X14: Colour fastness to acid chlorination of wool: Sodium dichloroisocyanurate
+ISO 105-X16:2001 Part X16: Colour fastness to rubbing -- Small areas
+ISO 105-X18:2007 Part X18: Assessment of the potential to phenolic yellowing of materials
+ISO 105-Z01:1993 Part Z01: Colour fastness to metals in the dye-bath: Chromium salts
+ISO 105-Z02:1993 Part Z02: Colour fastness to metals in the dye-bath: Iron and copper
+ISO 105-Z03:1996 Part Z03: Intercompatibility of basic dyes for acrylic fibres
+ISO 105-Z04:1995 Part Z04: Dispersibility of disperse dyes
+ISO 105-Z05:1996 Part Z05: Determination of the dusting behaviour of dyes
+ISO 105-Z06:1998 Part Z06: Evaluation of dye and pigment migration
+ISO 105-Z07:1995 Part Z07: Determination of application solubility and solution stability of water-soluble dyes
+ISO 105-Z08:1995 Part Z08: Determination of solubility and solution stability of reactive dyes in the presence of electrolytes
+ISO 105-Z09:1995 Part Z09: Determination of cold water solubility of water-soluble dyes
+ISO 105-Z10:1997 Part Z10: Determination of relative colour strength of dyes in solution
+ISO 105-Z11:1998 Part Z11: Evaluation of speckiness of colorant dispersions
+ISO 108:1976 Textile machinery and accessories -- Weaving looms -- Definition of left and right sides
+ISO 109:1982 Textile machinery -- Working widths of weaving machines
+ISO 110:1978 Textile machinery and accessories -- Cones for yarn winding (cross wound) -- Half angle of the cone 9 degrees 15' [Withdrawn without replacement]
+ISO 111:1978 Textile machinery and accessories -- Cones for yarn winding (cross wound) -- Half angle of the cone 4 degrees 20' [Withdrawn: Replaced with ISO 8489-3]
+ISO 112:1983 Textile machinery and accessories -- Cones for yarn winding (cross wound) -- Half angle of the cone 3 degrees 30' [Withdrawn: Replaced with ISO 8489-2]
+ISO 113:2010 Rolling bearings -- Plummer block housings -- Boundary dimensions
+ISO 114:1980 99.8 Unalloyed magnesium ingots -- Chemical composition [Withdrawn: Replaced by ISO 8287]
+ISO 115:2003 Unalloyed aluminium ingots for remelting -- Classification and composition
+ISO 119:1977 Plastics -- Phenol-formaldehyde mouldings -- Determination of free phenols -- Iodometric method
+ISO 120:1977 Plastics -- Phenol-formaldehyde mouldings -- Determination of free ammonia and ammonium compounds -- Colorimetric comparison method
+ISO 121:1980 Magnesium-aluminium-zinc alloy ingots and alloy castings -- Chemical composition and mechanical properties of sand cast reference test bars [Withdrawn: replaced by ISO 16220]
+ISO 123:2001 Rubber latex -- Sampling
+ISO 124:2011 Latex, rubber -- Determination of total solids content
+ISO 125:2011 Natural rubber latex concentrate -- Determination of alkalinity
+ISO 126:2005 Natural rubber latex concentrate -- Determination of dry rubber content
+ISO 127:2012 Rubber, natural latex concentrate -- Determination of KOH number
+ISO 128
+ISO 128-1:2003 Technical drawings -- General principles of presentation -- Part 1: Introduction and index
+ISO 128-15:2013 Technical product documentation (TPD) -- General principles of presentation -- Part 15: Presentation of shipbuilding drawings
+ISO 128-20:1996 Technical drawings -- General principles of presentation -- Part 20: Basic conventions for lines
+ISO 128-21:1997 Technical drawings -- General principles of presentation -- Part 21: Preparation of lines by CAD systems
+ISO 128-22:1999 Technical drawings -- General principles of presentation -- Part 22: Basic conventions and applications for leader lines and reference lines
+ISO 128-23:1999 Technical drawings -- General principles of presentation -- Part 23: Lines on construction drawings
+ISO 128-24:1999 Technical drawings -- General principles of presentation -- Part 24: Lines on mechanical engineering drawings
+ISO 128-25:1999 Technical drawings -- General principles of presentation -- Part 25: Lines on shipbuilding drawings
+ISO 128-30:2001 Technical drawings -- General principles of presentation -- Part 30: Basic conventions for views
+ISO 128-34:2001 Technical drawings -- General principles of presentation -- Part 34: Views on mechanical engineering drawings
+ISO 128-40:2001 Technical drawings -- General principles of presentation -- Part 40: Basic conventions for cuts and sections
+ISO 128-44:2001 Technical drawings -- General principles of presentation -- Part 44: Sections on mechanical engineering drawings
+ISO 128-50:2001 Technical drawings -- General principles of presentation -- Part 50: Basic conventions for representing areas on cuts and sections
+ISO/TS 128-71:2010 Technical product documentation (TPD) -- General principles of presentation -- Part 71: Simplified representation for mechanical engineering drawings
+ISO 129
+ISO 129-1:2004 Technical drawings -- Indication of dimensions and tolerances -- Part 1: General principles
+ISO 129-4:2013 Technical product documentation (TPD) -- Indication of dimensions and tolerances -- Part 4: Dimensioning of shipbuilding drawings
+ISO 131:1979 Acoustics -- Expression of physical and subjective magnitudes of sound or noise in air [Withdrawn without replacement]
+ISO 132:2011 Rubber, vulcanized or thermoplastic -- Determination of flex cracking and crack growth (De Mattia)
+ISO 133:1983 Rubber, vulcanized -- Determination of crack growth (De Mattia) [Withdrawn: Replaced with ISO 132]
+ISO 136:1972 Steel -- Simple torsion testing of wire [Withdrawn replaced by ISO 7800]
+ISO 137:1975 Wool -- Determination of fibre diameter -- Projection microscope method
+ISO 139:2005 Textiles -- Standard atmospheres for conditioning and testing
+ISO 140 Acoustics -- Measurement of sound insulation in buildings and of building elements
+ISO 140-2:1991 Part 2: Determination, verification and application of precision data
+ISO 140-4:1998 Part 4: Field measurements of airborne sound insulation between rooms
+ISO 140-5:1998 Part 5: Field measurements of airborne sound insulation of façade elements and façades
+ISO 140-7:1998 Part 7: Field measurements of impact sound insulation of floors
+ISO 140-14:2004 Part 14: Guidelines for special situations in the field
+ISO 140-18:2006 Part 18: Laboratory measurement of sound generated by rainfall on building elements
+ISO 141:1976 Textile machinery and accessories -- Pirn winders and cross winders -- Definition of left and right sides
+ISO 142:1976 Textile machinery and accessories -- Weaving preparatory machines -- Definition of left and right sides
+ISO 143:1977 Textile machinery and accessories -- Weft pirns for automatic looms [Withdrawn without replacement]
+ISO 144:1973 Steel -- Reverse bend testing of wire [Withdrawn: replaced with ISO 7801]
+ISO 146:1984 Metallic materials -- Hardness test -- Verification of Vickers hardness testing machines HV 0,2 to HV 100 [Withdrawn replaced with ISO 6507-2]
+ISO 146-2:1993 Metallic materials -- Verification of Vickers hardness testing machines -- Part 2: Less than HV 0,2 [Withdrawn replaced with ISO 6507-2]
+ISO 148 Metallic materials -- Charpy pendulum impact test
+ISO 148-1:2009 Part 1: Test method
+ISO 148-2:2008 Part 2: Verification of testing machines
+ISO 148-3:2008 Part 3: Preparation and characterization of Charpy V-notch test pieces for indirect verification of pendulum impact machines
+ISO 150:2006 Raw, refined and boiled linseed oil for paints and varnishes -- Specifications and methods of test
+ISO 155:1998 Belt drives -- Pulleys -- Limiting values for adjustment of centres
+ISO 156:1982 Metallic materials -- Hardness test -- Verification of Brinell hardness testing machines [Withdrawn replaced by ISO 6506-2]
+ISO 157:1996 Coal -- Determination of forms of sulfur
+ISO 160:1980 Asbestos-cement pressure pipes and joints [Withdrawn without replacement]
+ISO 161 Thermoplastics pipes for the conveyance of fluids -- Nominal outside diameters and nominal pressures
+ISO 161-1:1996 Part 1: Metric series
+ISO 161-2:1996 Part 2: Inch-based series
+ISO 162:1985 Cinematography -- Head gaps and sound records for three-, four-, or six-track magnetic sound records on 35 mm and single-track on 17,5 mm motion-picture film containing no picture -- Positions and width dimensions
+ISO 171:1980 Plastics -- Determination of bulk factor of moulding materials
+ISO 172:1978 Plastics -- Phenol-formaldehyde mouldings -- Detection of free ammonia
+ISO 174:1974 Plastics -- Homopolymer and copolymer resins of vinyl chloride -- Determination of viscosity number in dilute solution [Withdrawn replaced by ISO 1628-2]
+ISO 200 – ISO 999[edit]
+ISO 216:2007 Writing paper and certain classes of printed matter – Trimmed sizes – A and B series, and indication of machine direction
+ISO 226:2003 Acoustics – Normal equal-loudness-level contours
+ISO 228 Pipe threads where pressure-tight joints are not made on the threads
+ISO 228-1:2000 Dimensions, tolerances and designation
+ISO 228-2:1987 Verification by means of limit gauges
+ISO 233 Information and documentation – Transliteration of Arabic characters into Latin characters[Note 3]
+ISO 233-2:1993 Arabic language – Simplified transliteration
+ISO 233-3:1999 Persian language – Simplified transliteration
+ISO 259 Information and documentation – Transliteration of Hebrew characters into Latin characters[Note 3]
+ISO 259-2:1994 Simplified transliteration
+ISO 261 ISO general purpose metric screw threads – General plan
+ISO 262 ISO general purpose metric screw threads – Selected sizes for screws, bolts and nuts
+ISO 286-1 Geometrical product specifications (GPS) – ISO code system for tolerances on linear sizes – Part 1: Basis of tolerances, deviations and fits
+ISO 286-2 Geometrical product specifications (GPS) – ISO code system for tolerances on linear sizes – Part 2: Tables of standard tolerance classes and limit deviations for holes and shafts
+ISO 361 Basic ionizing radiation symbol
+ISO 500 Agricultural tractors – Rear-mounted power take-off types 1, 2 and 3
+ISO 518:2006 Photography – Camera accessory shoes, with and without electrical contacts, for photoflash lamps and electronic photoflash units – Specification
+ISO 519:1992 Photography – Hand-held cameras – Flash-connector dimensions
+ISO 639 Codes for the representation of names of languages
+ISO 639-1 Alpha-2 code
+ISO 639-2 Alpha-3 code
+ISO 639-3 Alpha-3 code for comprehensive coverage of languages
+ISO 639-4 General principles of coding of the representation of names of languages and related entities, and application guidelines
+ISO 639-5 Alpha-3 code for language families and groups
+ISO 639-6 Alpha-4 code for comprehensive coverage of language variants
+ISO/IEC 646 Information technology – ISO 7-bit coded character set for information interchange
+ISO 657 Hot-rolled steel sections
+ISO 668 Series 1 freight containers – Classification, dimensions and ratings
+ISO 690 Information and documentation – Guidelines for bibliographic references and citations to information resources
+ISO 704 Terminology work – Principles and methods
+ISO 732 Photography – 120-size and 220-size films – Dimensions
+ISO 764 Horology – Magnetic resistant watches
+ISO 760:1978 Determination of water - Karl Fischer method (General method)
+ISO 787 General methods of test for pigments and extenders
+ISO 787-9:1981 Determination of pH value of an aqueous suspension
+ISO 838 Paper – Holes for general filing purposes – Specifications
+ISO 843:1997 Information and documentation – Conversion of Greek characters into Latin characters
+ISO 860 Terminology work – Harmonization of concepts and terms
+ISO 898 Mechanical properties of fasteners made of carbon steel and alloy steel[Note 3]
+ISO 898-1 Bolts, screws and studs with specified property classes – Coarse thread and fine pitch thread
+ISO 898-2 Nuts with specified proof load values – Coarse thread
+ISO 898-5 Set screws and similar threaded fasteners not under tensile stresses
+ISO 898-6 Nuts with specified proof load values – Fine pitch thread
+ISO 898-7 Torsional test and minimum torques for bolts and screws with nominal diameters 1 mm to 10 mm
+ISO 965 ISO general purpose metric screw threads – Tolerances
+ISO 965-1 Principles and basic data
+ISO 965-2 Limits of sizes for general purpose external and internal screw threads – Medium quality
+ISO 965-3 Deviations for constructional screw threads
+ISO 965-4 Limits of sizes for hot-dip galvanized external screw threads to mate with internal screw threads tapped with tolerance position H or G after galvanizing
+ISO 965-5 Limits of sizes for internal screw threads to mate with hot-dip galvanized external screw threads with maximum size of tolerance position h before galvanizing
+ISO 999 Information and documentation – Guidelines for the content, organization, and presentation of indexes
+ISO 1000 – ISO 4999[edit]
+ISO 1000 SI units and recommendations for the use of their multiples and of certain other units [withdrawn 2009-11-17]
+ISO 1004 Information processing – Magnetic ink character recognition – Print specifications
+ISO 1007 Photography – 135-size film and magazine – Specifications
+ISO 1101 Geometrical Product Specifications (GPS) – Geometrical tolerancing – Tolerances of form, orientation, location and run-out
+ISO 1222 Photography – Tripod connections
+ISO 1268 Fibre-reinforced plastics – Methods of producing test plates
+ISO 1402 Rubber and plastics hoses and hose assemblies - Hydrostatic testing
+ISO/IEC 1539 Information technology – Programming languages – Fortran
+ISO 1629 Rubber and latices – Nomenclature
+ISO 1663 Rigid cellular plastics – Determination of water vapour transmission properties
+ISO 1745 Information processing – Basic mode control procedures for data communication systems
+ISO 1750 Pesticides and other agrochemicals – Common names
+ISO 1928 Solid mineral fuels – Determination of gross calorific value by the bomb calorimetric method and calculation of net calorific value
+ISO/IEC 2022 Information technology – Character code structure and extension techniques
+ISO 2108 Information and documentation – International standard book number (ISBN)
+ISO 2145 Documentation – Numbering of divisions and subdivisions in written documents
+ISO 2162 Technical product documentation – Springs
+ISO 2162-1 Simplified representation
+ISO 2162-2 Presentation of data for cylindrical helical compression springs
+ISO 2171 Cereals, pulses and by-products – Determination of ash yield by incineration
+ISO 2240:2003 Photography – Colour reversal camera films – Determination of ISO speed
+ISO 2533 Standard Atmosphere
+ISO 2692 Geometrical product specifications (GPS) – Geometrical tolerancing – Maximum material requirement (MMR), least material requirement (LMR) and reciprocity requirement (RPR)
+ISO 2709 Information and documentation – Format for information exchange
+ISO 2768 General tolerances
+ISO 2768-1 Tolerances for linear and angular dimensions without individual tolerance indications
+ISO 2768-2 Geometrical tolerances for features without individual tolerance indications
+ISO 2852 Stainless steel clamp pipe couplings for the food industry
+ISO 3002 Basic quantities in cutting and grinding
+ISO 3082 Iron ores – Sampling and sample preparation procedures
+ISO 3098 Technical product documentation – Lettering
+ISO 3103 Tea – Preparation of liquor for use in sensory tests
+ISO 3166 Codes for the representation of names of countries and their subdivisions
+ISO 3166-1 Country codes
+ISO 3166-2 Country subdivision code
+ISO 3166-3 Code for formerly used names of countries
+ISO 3297 Information and documentation – International standard serial number (ISSN)
+ISO 3394 Dimensions of rigid rectangular packages – Transport packages
+ISO 3506 Mechanical properties of corrosion-resistant stainless steel fasteners
+ISO 3534 Statistics – Vocabulary and symbols
+ISO 3534-1 General statistical terms and terms used in probability
+ISO 3534-2 Applied statistics
+ISO 3534-3 Design of experiments
+ISO 3534-4 Survey sampling
+ISO 3536 Road vehicles – Safety glazing materials – Vocabulary
+ISO 3537 Road vehicles – Safety glazing materials – Mechanical tests
+ISO 3538 Road vehicles – Safety glazing materials – Test methods for optical properties
+ISO 3601 Fluid power systems – O-rings
+ISO 3601-1 Inside diameters, cross-sections, tolerances and designation codes
+ISO 3601-2 Housing dimensions for general applications
+ISO 3601-3 Quality acceptance criteria
+ISO 3601-4 Anti-extrusion rings (back-up rings)
+ISO 3601-5 Suitability of elastomeric materials for industrial applications
+ISO 3602 Documentation – Romanization of Japanese (kana script)
+ISO 3632 Spices – Saffron (Crocus sativus L.)[Note 3]
+ISO 3635:1981 Size designation of clothes – Definitions and body measurement procedure
+ISO 3676 Packaging – Unit load sizes – Dimensions
+ISO 3864 Graphical symbols – Safety colours and safety signs
+ISO 3901 Information and documentation – International Standard Recording Code (ISRC)
+ISO 3977 Gas turbines – Procurement
+ISO 4074 Natural latex rubber condoms – Requirements and test methods
+ISO 4157 Construction drawings – Designation systems
+ISO 4157-1 Buildings and part of buildings
+ISO 4157-2 Room names and numbers
+ISO 4157-3 Room identifiers
+ISO 4165 Road vehicles — Electrical connections — Double-pole connection
+ISO 4179 Ductile iron pipes and fittings for pressure and non-pressure pipelines – Cement mortar lining
+ISO 4217 Codes for the representation of currencies and funds
+ISO 4314 Surface active agents — Determination of free alkalinity or free acidity — Titrimetric method
+ISO 4578 Adhesives — Determination of peel resistance of high-strength adhesive bonds — Floating-roller method
+ISO 4582 Plastics — Determination of changes in colour and variations in properties after exposure to daylight under glass, natural weathering or laboratory light sources
+ISO 4587 Adhesives — Determination of tensile lap-shear strength of rigid-to-rigid bonded assemblies
+ISO 4628 Paints and varnishes – Evaluation of degradation of coatings – Designation of quantity and size of defects, and of intensity of uniform changes in appearance
+ISO 4628-1 General introduction and designation system
+ISO 4628-2 Assessment of degree of blistering
+ISO 4628-3 Assessment of degree of rusting
+ISO 4628-4 Assessment of degree of cracking
+ISO 4628-5 Assessment of degree of flaking
+ISO 4628-6 Assessment of degree of chalking by tape method
+ISO 4628-7 Assessment of degree of chalking by velvet method
+ISO 4628-8 Assessment of degree of delamination and corrosion around a scribe
+ISO 4628-10 Assessment of degree of filiform corrosion
+ISO/IEC 4873:1991 Information technology – ISO 8-bit code for information interchange – Structure and rules for implementation
+ISO 4892 Plastics – Methods of exposure to laboratory light sources
